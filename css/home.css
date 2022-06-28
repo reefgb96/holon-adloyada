@@ -27,4 +27,10 @@ p, span {
 
 .main-logo {
   width: 18vh;
+}
+
+.slide {
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
 }/*# sourceMappingURL=home.css.map */
